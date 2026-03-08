@@ -12,3 +12,4 @@ This driver allows Control4 systems to display **notifications, images, videos, 
 - Package delivery alerts
 - Custom Control4 system messages
 - Display images, videos, or web pages on demand
+
